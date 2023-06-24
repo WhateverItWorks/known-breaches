@@ -13,3 +13,6 @@ As vigilante.pw is currently down and has been for a while, the data set from th
 
 If you have any suggestions feel free to create an issue or submit a PR :)
 
+### Data too Large to read?
+
+[https://www.emeditor.com](https://www.emeditor.com/)
