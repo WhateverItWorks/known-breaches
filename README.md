@@ -18,6 +18,9 @@ A compliation of breach information gathered from data aggregators and breach lo
  - Citadel [**NEW**]
  - HackNotice [**NEW**]
 
+### Issues
+- https://github.com/notdls/known-breaches/issues/1 - Resolved
+
 You can find the datasets in `datasets/`, each file here contains data obtained from the individual providers with the exception of `combined.json` which is a compilation of all four.
 
 As vigilante.pw is currently down and has been for a while, the data set from the following github repository was used [https://github.com/wedataintelligence/Vigilante.pw](https://github.com/wedataintelligence/Vigilante.pw).
